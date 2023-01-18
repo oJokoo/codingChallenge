@@ -4,6 +4,8 @@ This code can handle many different csv files as arguments.
 
 To run the program, navigate to the directory where the main.py file is located.
 
+Ensure that the .csv files are located under the same directory where the main.py file is located.
+
 Run the command - python main.py excelFile1.csv excelFile2.csv excelFile3.csv
 
 For instance,
